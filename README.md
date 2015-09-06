@@ -73,3 +73,7 @@ $ protractor protractor.conf.js
 Try the code, verify the current behavior. Update the code and configurations and test again!
 
 Please feel free to contact me if you have any question.
+
+## License
+
+MIT
