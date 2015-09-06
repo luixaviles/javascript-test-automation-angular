@@ -1,5 +1,8 @@
 JavaScript Test Automation For AngularJS Applications
 ===========================================================
+
+Slides: [http://luixaviles.github.io/javascript-test-automation-angular](http://luixaviles.github.io/javascript-test-automation-angular)
+
 ## Prerequisites
 
 First, ensure you have the following installed:
